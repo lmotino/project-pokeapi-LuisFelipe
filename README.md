@@ -1,2 +1,2 @@
 # project-pokeapi-LuisFelipe
-Proyecto individual Luis Motiño
+Proyecto individual de pokeapi FSJ13 Luis Motiño
